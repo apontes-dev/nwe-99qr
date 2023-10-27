@@ -4,7 +4,7 @@ const bioData = [
         name: 'André Pontes de Oliveira',
         username: '653be98008ca4935562c184b--heroic-quokka-22be9d.netlify.app',
         url: 'https://653be98008ca4935562c184b--heroic-quokka-22be9d.netlify.app',
-        titleImg: true,
+        titleImg: false,
         avatar: 'https://avatars.githubusercontent.com/u/107428071?v=4',
         nftAvatar: false,
         description: 'Protótipo de card 99qr. ',
