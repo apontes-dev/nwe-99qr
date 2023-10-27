@@ -2,8 +2,8 @@
 const bioData = [
     {
         name: 'André Pontes de Oliveira',
-        username: '653be98008ca4935562c184b--heroic-quokka-22be9d.netlify.app',
-        url: 'https://653be98008ca4935562c184b--heroic-quokka-22be9d.netlify.app',
+        username: 'qr.kodezone.com.br',
+        url: 'https://qr.kodezone.com.br',
         titleImg: false,
         avatar: 'https://avatars.githubusercontent.com/u/107428071?v=4',
         nftAvatar: false,
@@ -20,6 +20,3 @@ const bioData = [
 ];
 
 export default bioData;
-
-
-
