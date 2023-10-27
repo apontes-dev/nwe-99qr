@@ -5,7 +5,7 @@ const bioData = [
         username: '653be98008ca4935562c184b--heroic-quokka-22be9d.netlify.app',
         url: 'https://653be98008ca4935562c184b--heroic-quokka-22be9d.netlify.app',
         titleImg: true,
-        avatar: '/avatar.png',
+        avatar: 'https://avatars.githubusercontent.com/u/107428071?v=4',
         nftAvatar: true,
         description: 'Protótipo de card 99qr. ',
         descShow: true,
