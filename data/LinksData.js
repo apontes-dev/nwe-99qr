@@ -161,5 +161,5 @@
 //     },
 // ];
 
-const webLinks = [];
+const webLinks = [{}];
 export default webLinks;
